@@ -1,6 +1,3 @@
-# nessus-report-automation
-Parses Nessus PDF reports and auto-generates Excel with CVEs, CVSS scores — built for VAPT assessments.
-
 # 🛡️ Nessus PDF Report → Excel Automation
 
 > *"Manual reporting is the enemy of efficiency. Automate the noise. Focus on the hunt."*
